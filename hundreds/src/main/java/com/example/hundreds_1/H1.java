@@ -1,6 +1,6 @@
-package com.example.one;
+package com.example.hundreds_1;
 
-public class ExampleOne {
+public class H1 {
     class BSTree {
         int value;
         BSTree left;
